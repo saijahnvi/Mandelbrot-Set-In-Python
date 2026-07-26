@@ -5,7 +5,7 @@ High-performance Python & Numba implementation of the Mandelbrot fractal with in
 # ⚡ Interactive Numba Mandelbrot Viewer
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/23aa2c50-e5a7-4d54-85e0-3b273aa77a3b" width="700"/>
+  <img src="https://github.com/user-attachments/assets/23aa2c50-e5a7-4d54-85e0-3b273aa77a3b" width="700" alt="Mandelbrot Main Preview"/>
 </p>
 
 ---
@@ -22,9 +22,9 @@ High-performance Python & Numba implementation of the Mandelbrot fractal with in
 ## Screenshots
 
 <p align="center">
-  <img src="assets/Fig9.png" alt="Deep Zoom Fractal Detail" width="45%" />
+  <img src="https://github.com/user-attachments/assets/7b915adb-ee48-459e-8dc8-3eb6a123bb59" alt="Deep Zoom Fractal Detail" width="45%" />
   &nbsp; &nbsp;
-  <img src="assets/fig4.png" alt="Full Set Overview" width="45%" />
+  <img src="https://github.com/user-attachments/assets/91e42c54-67e2-4639-a1ee-6ee43d15ee87" alt="Deep Zoom" width="45%" />
 </p>
 
 ---
