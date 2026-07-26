@@ -1,8 +1,11 @@
 # Mandelbrot-Set-In-Python
-High-performance Python &amp; Numba implementation of the Mandelbrot fractal with interactive Matplotlib zoom callbacks.
+
+High-performance Python & Numba implementation of the Mandelbrot fractal with interactive Matplotlib zoom callbacks.
+
 # ⚡ Interactive Numba Mandelbrot Viewer
+
 <p align="center">
-  <img src=""https://github.com/user-attachments/assets/23aa2c50-e5a7-4d54-85e0-3b273aa77a3b"" width="700"/>
+  <img src="https://github.com/user-attachments/assets/23aa2c50-e5a7-4d54-85e0-3b273aa77a3b" width="700"/>
 </p>
 
 ---
@@ -16,12 +19,12 @@ High-performance Python &amp; Numba implementation of the Mandelbrot fractal wit
 
 ---
 
-##  Screenshots
+## Screenshots
 
 <p align="center">
-  <img src="/Users/jahnavidoddamani/Desktop/projects/compphysics/pics/Fig9.png" alt="Deep Zoom Fractal Detail" width="45%" />
+  <img src="assets/Fig9.png" alt="Deep Zoom Fractal Detail" width="45%" />
   &nbsp; &nbsp;
-  <img src="/Users/jahnavidoddamani/Desktop/projects/compphysics/pics/fig4.png" alt="Full Set Overview" width="45%" />
+  <img src="assets/fig4.png" alt="Full Set Overview" width="45%" />
 </p>
 
 ---
@@ -32,11 +35,11 @@ High-performance Python &amp; Numba implementation of the Mandelbrot fractal wit
 | :--- | :--- | :--- | :--- |
 | **Pure Python Loops** | 1000x1000 | 1,000 | ~12.5 seconds |
 | **Numba JIT (Single Thread)** | 1000x1000 | 1,000 | ~0.42 seconds |
-| **Numba JIT + Parallel CPU** | 1000x1000 | 1,000 | **~0.05 seconds :)**  |
+| **Numba JIT + Parallel CPU** | 1000x1000 | 1,000 | **~0.05 seconds :)** |
 
 ---
 
-##  Installation
+## Installation
 
 1. **Clone the repository:**
    ```bash
